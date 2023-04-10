@@ -1,2 +1,2 @@
 # Learning-DOM
-Learning about DOM
+Learning DOM at https://rocketseat.com.br
